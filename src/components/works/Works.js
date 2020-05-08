@@ -40,6 +40,23 @@ const Works = () => {
               </div>
             </div>
             </Zoom> 
+
+            <Zoom duration={500} delay={700}> 
+            <div className="vn_item">
+              <div className="vn_outer">
+                <div className="vn_inner">
+                  
+                  <div className="vn_title">
+                   titulo
+                  </div>
+                  <div className="vn_desc">
+                    descripcion
+                  </div>
+                </div>
+              </div>
+            </div>
+            </Zoom> 
+            
           </div>
   
         </div>
